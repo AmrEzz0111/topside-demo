@@ -12,36 +12,10 @@ Built with Flutter, Riverpod, GoRouter and a Supabase backend, with a companion 
 
 ---
 
-## 📱 Screenshots
-
-### Home
-
-| Arabic | English |
-|:---:|:---:|
-| <img src="home-ar.png" width="280" alt="TopSide Home screen in Arabic" /> | <img src="home-en.png" width="280" alt="TopSide Home screen in English" /> |
-
-### Business Details
+## 📱 App Screens
 
 <p align="center">
-  <img src="business-details.png" width="280" alt="TopSide Business Details screen" />
-</p>
-
-### Explore & Search
-
-<p align="center">
-  <img src="explore.png" width="280" alt="TopSide Explore screen" />
-</p>
-
-### Favorites
-
-<p align="center">
-  <img src="favorites.png" width="280" alt="TopSide Favorites screen" />
-</p>
-
-### Profile
-
-<p align="center">
-  <img src="profile.png" width="280" alt="TopSide Profile screen" />
+  <img src="all-screens.png" width="900" alt="TopSide app screens overview" />
 </p>
 
 ---
