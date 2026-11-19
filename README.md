@@ -3,10 +3,6 @@
 ### Discover Egypt. Find Your Next Favorite Place.
 
 <p align="center">
-  <img src="assets/logo.png" width="120" alt="TopSide Logo" />
-</p>
-
-<p align="center">
   A local discovery platform designed to help people explore places, discover businesses, and find new experiences across Egypt.
 </p>
 
@@ -18,11 +14,9 @@
 
 ## About the Project
 
-TopSide is a mobile application concept focused on making local discovery easier and more engaging.
+TopSide is a mobile application focused on making local discovery easier and more engaging.
 
-The platform brings places, businesses, curated content, and personalized favorites into one experience.
-
-The goal is to create a convenient way for people to discover interesting destinations and explore what their city has to offer.
+The platform brings places, businesses, curated content, and personalized favorites into one experience, helping people discover interesting destinations and explore what their city has to offer.
 
 **Project Status:** Under Active Development
 
@@ -30,19 +24,33 @@ The goal is to create a convenient way for people to discover interesting destin
 
 ### Home
 
-<!-- Add the actual Home screenshot here -->
+| Arabic | English |
+|:---:|:---:|
+| <img src="home-ar.png" width="280" alt="TopSide Home screen in Arabic" /> | <img src="home-en.png" width="280" alt="TopSide Home screen in English" /> |
 
 ### Explore
 
-<!-- Add the actual Explore screenshot here -->
+<p align="center">
+  <img src="explore.png" width="280" alt="TopSide Explore screen" />
+</p>
 
 ### Business Details
 
-<!-- Add the actual Business Details screenshot here -->
+<p align="center">
+  <img src="business-details.png" width="280" alt="TopSide Business Details screen" />
+</p>
 
 ### Favorites
 
-<!-- Add the actual Favorites screenshot here -->
+<p align="center">
+  <img src="favorites.png" width="280" alt="TopSide Favorites screen" />
+</p>
+
+### Profile
+
+<p align="center">
+  <img src="profile.png" width="280" alt="TopSide Profile screen" />
+</p>
 
 ## Core Experience
 
@@ -54,15 +62,15 @@ The goal is to create a convenient way for people to discover interesting destin
 
 ## Technology Stack
 
-| Technology     | Usage                                |
-| -------------- | ------------------------------------ |
-| Flutter & Dart | Cross-platform mobile development   |
-| Riverpod       | State management                    |
-| GoRouter       | Application navigation              |
-| Supabase       | Backend services and authentication |
-| PostgreSQL     | Relational database                  |
-| REST APIs      | Data communication                  |
-| GitHub Actions | Continuous Integration              |
+| Technology | Usage |
+|---|---|
+| Flutter & Dart | Cross-platform mobile development |
+| Riverpod | State management |
+| GoRouter | Application navigation |
+| Supabase | Backend services and authentication |
+| PostgreSQL | Relational database |
+| REST APIs | Data communication |
+| GitHub Actions | Continuous Integration |
 
 ## Engineering Highlights
 
@@ -76,7 +84,7 @@ The goal is to create a convenient way for people to discover interesting destin
 
 This repository is a **visual portfolio showcase** of TopSide.
 
-It contains selected screenshots and project documentation only. The original application source code and backend implementation are maintained separately in a private repository.
+It contains selected application screenshots and project documentation only. The original application source code and backend implementation are maintained separately in a private repository.
 
 The screenshots and descriptions represent the project as it evolves during development.
 
